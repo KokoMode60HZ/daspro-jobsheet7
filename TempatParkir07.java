@@ -5,7 +5,7 @@ public class TempatParkir07 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int jenis, durasi = 0, total = 0;
+        int jenis, durasi, total = 0;
 
         do {
             System.out.println("Masukkan jenis kendaraan (1 = mobil ; 2 = motor ; 0 = keluar lihat total )");
